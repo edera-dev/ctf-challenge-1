@@ -2627,8 +2627,8 @@ function render(): void {
   </p>
 
   <p>
-    Work through the cluster with <strong>kubectl</strong>
-    & <strong>Edera</strong>.<br> 
+    Work with <strong>[kubectl](https://kubernetes.io/docs/reference/kubectl/)</strong>
+    & the <strong>[Edera CLI](https://docs.edera.dev/guides/cli-user-guide/)</strong>.<br> 
     Capture all <b>6 flags</b> to complete the exercise.
   </p>
 </div>
@@ -2731,7 +2731,7 @@ function render(): void {
         }
 
         <div class="edera-free-bottom">
-          <a href="https://ndouglas-edera.github.io/my-webernetes-demo/" target="_blank">Try our Webernetes Demo →</a>
+          <a href="https://edera-dev.github.io/agent-demo/" target="_blank">Try our Webernetes Demo →</a>
         </div>
 
         <footer class="edera-footer">

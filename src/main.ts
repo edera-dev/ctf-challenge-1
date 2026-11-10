@@ -2623,12 +2623,12 @@ function render(): void {
   <div className="mission-description">
   <p>
     You have audit access to a node running <strong>Edera</strong>.<br> 
-    Some workloads on it boot their own kernel. <br><i>At least one does not</i>.
+    Some workloads on it boot their own kernel. <br>
   </p>
 
 <p>
   Work with <strong><a href="https://kubernetes.io/docs/reference/kubectl/">kubectl</a></strong>
-  &amp; the <strong><a href="https://docs.edera.dev/guides/cli-user-guide/">Edera CLI</a></strong>.<br>
+  &amp; the <strong><a href="https://docs.edera.dev/guides/cli-user-guide/">Edera CLI</a></strong> here.<br>
   Capture all <strong>6 flags</strong> to complete the exercise.
 </p>
 </div>

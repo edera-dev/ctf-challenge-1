@@ -2626,11 +2626,11 @@ function render(): void {
     Some workloads on it boot their own kernel. <br><i>At least one does not</i>.
   </p>
 
-  <p>
-    Work with <strong>[kubectl](https://kubernetes.io/docs/reference/kubectl/)</strong>
-    & the <strong>[Edera CLI](https://docs.edera.dev/guides/cli-user-guide/)</strong>.<br> 
-    Capture all <b>6 flags</b> to complete the exercise.
-  </p>
+<p>
+  Work with <strong><a href="https://kubernetes.io/docs/reference/kubectl/">kubectl</a></strong>
+  &amp; the <strong><a href="https://docs.edera.dev/guides/cli-user-guide/">Edera CLI</a></strong>.<br>
+  Capture all <strong>6 flags</strong> to complete the exercise.
+</p>
 </div>
           </div>
 

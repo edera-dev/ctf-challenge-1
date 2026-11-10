@@ -2627,8 +2627,8 @@ function render(): void {
   </p>
 
 <p>
-  Work with <strong><a href="https://kubernetes.io/docs/reference/kubectl/">kubectl</a></strong>
-  and the <strong><a href="https://docs.edera.dev/guides/cli-user-guide/">Edera CLI</a></strong> here.<br>
+Work with <strong><a href="https://kubernetes.io/docs/reference/kubectl/" target="_blank">kubectl</a></strong>
+and the <strong><a href="https://docs.edera.dev/guides/cli-user-guide/" target="_blank">Edera CLI</a></strong> here.<br>
   Capture all <strong>6 flags</strong> to complete the exercise.
 </p>
 </div>
